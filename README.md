@@ -10,6 +10,10 @@ out agreements.
 ## Preview
 ![alt text](https://github.com/hxtree/moodle-submission_backup/raw/master/docs/preview.jpg "Preview")
 
+## Moodle Plugin
+This plugin is avaliable via the offical Moodle plugins sites.
+https://moodle.org/plugins/block_submission_backup
+
 ## Using from a Git checkout
 The following commands can be used to perform the initial checkout of moodle-submission_backup
 ```shell script
