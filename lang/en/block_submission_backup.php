@@ -9,6 +9,7 @@
  */
 
 $string['pluginname'] = 'My submissions';
+$string['privacy:metadata'] = 'The Submission backup block only displays links to existing assignment data.';
 $string['submission_backup'] = 'Submission backup';
 $string['submission_backup:addinstance'] = 'Add a new My Submission block';
 $string['submission_backup:myaddinstance'] = 'Add a new My Submission block to My Moodle page';
