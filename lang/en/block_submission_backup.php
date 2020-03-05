@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-$string['pluginname'] = 'My Submissions';
-$string['submission_backup'] = 'Submission Backup';
+$string['pluginname'] = 'My submissions';
+$string['submission_backup'] = 'Submission backup';
 $string['submission_backup:addinstance'] = 'Add a new My Submission block';
 $string['submission_backup:myaddinstance'] = 'Add a new My Submission block to My Moodle page';
