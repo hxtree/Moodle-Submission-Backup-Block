@@ -1,3 +1,5 @@
+<?php 
+
 namespace block_submission_backup\privacy;
  
 class provider implements
